@@ -6,6 +6,8 @@ Running my python code.
 
 New line in the file.
 
+Testing the branching feature.
+
 ```python
 def print_text():
     print("hello world!")
