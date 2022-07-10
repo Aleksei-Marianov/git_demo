@@ -1,6 +1,8 @@
 # Testing git.
 
-Running my python code:
+Running my python code.
+
+## Actual code. Copy-paste to run.
 
 ```python
 def print_text():
